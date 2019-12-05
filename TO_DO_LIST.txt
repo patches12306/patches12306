@@ -1,0 +1,29 @@
+TO DO LIST
+
+Guidelines: Claim a task by writing your name next to it. When the task is complete, write DONE next to it.
+
+1. Query all mentions of elon musk on twitter from 2016-2018 (Garrett)
+1.1 Clean the text of each tweet (Garrett)
+1.2 Compute sentiment (Garrett)
+
+2. Should we roll our independent variable 1 week backwards in order to assess our ability to predict the future?
+
+3. Compute average sentiment of [day or week] for all tweets.
+
+4. Make visualization
+
+5. K-nearest neighbors regression model
+5.1 5-fold cross validation
+
+6. Repeat steps 1-5 for all stocks in FANG
+	- Facebook
+	- Amazon
+	- Netflix
+	- Alphabet (Google)
+	Note: do we use CEO twitters, or Company twitters or both?
+
+7. Make a bar graph for tweet count of different companies. This will tell us about the company's twitter presence.
+It would also be nice to get the companies google presence. However, I don't think we have a way of accessing
+this data.
+We can also use this graph to see how twitter presence affects the correlation.
+
